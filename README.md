@@ -16,7 +16,7 @@ The main objective of this project is to design and develop a Sales Management S
 - Orders and their details  
 - Revenue and stock reports  
 
-### Key Goals:
+## Key Goals:
 - Store customer and product details in an organized manner  
 - Track inventory and sales data accurately  
 - Identify top-selling products and total revenue  
@@ -24,7 +24,7 @@ The main objective of this project is to design and develop a Sales Management S
 
 ---
 
-## 🔍 Scope
+## Scope
 This is a **small-scale database system** demonstrating how MySQL can manage sales operations.  
 It covers:
 - Customer management  
@@ -49,7 +49,7 @@ Advanced features like billing systems, dashboards, or online integration are no
 
 ## Database Design and Tables
 
-### 📋 Tables
+## Tables
 1. **Customers** – Stores customer details like name, city, and country  
 2. **Products** – Contains product details like name, product line, quantity, and price  
 3. **Orders** – Records order details made by customers  
